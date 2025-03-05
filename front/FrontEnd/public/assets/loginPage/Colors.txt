@@ -1,0 +1,5 @@
+main background login page color light gray : #161717
+the side bar bacground color almost black also the bacground colo for the big buttons : #0C0B0B
+the text color for the big buttons: #FFFFFF
+the text for the sign in with facebook google account : #A1A1A1
+also the create acount full name email ..etc👆

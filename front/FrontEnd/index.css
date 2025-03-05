@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@media (max-width: 600px) {
+  button {
+    width: 50% !important;
+  }
+}
